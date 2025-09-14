@@ -7,6 +7,7 @@ This repository contains the complete C# source code for my solo portfolio proje
 Please Note: This repository includes the scripts only. Due to asset licensing restrictions, the full Unity project, including models, textures, and other art assets, is not included.
 
 Play the full game on Itch.io: [https://randomdx.itch.io/little-adventurer]
+Play the full game on GameJolt: [https://gamejolt.com/games/little_adventurer/1019005]
 
 View the full Game Design Document (GDD): [https://drive.google.com/file/d/12KuPnio-Ay9EVjDKkjmQ9xV9EuT6NE1Y/view?usp=sharing]
 
