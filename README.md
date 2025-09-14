@@ -1,4 +1,4 @@
-Little Adventurer Andi - C# Scripts
+# Little Adventurer Andi - C# Scripts
 
 The last guardian awakens. The first battle for a lost world begins.
 About This Repository
@@ -14,7 +14,7 @@ Key Features & Skills Demonstrated
 This project was a comprehensive exercise in game development, showcasing my ability to design, program, and polish a complete gameplay loop from the ground up.
 
 
-Custom Character Controller:
+*Custom Character Controller:*
 
 A responsive isometric character controller built using Unity's CharacterController.
 
@@ -29,7 +29,7 @@ A single, reusable system that drives all player interactions with the world.
 Powers complex events like the timed two-button gate puzzle and the discovery of lore tablets.
 
 
-Enemy AI & Combat:
+*Enemy AI & Combat:*
 
 A simple but effective state machine (Character.cs with isPlayer flag) controls the behavior of three unique enemy types (Melee Golem, Ark Shooter, and Giant Golem).
 
@@ -41,7 +41,7 @@ Complete UI flow with a main menu, dynamic dialogue system with a typewriter eff
 
 A central GameManager handles all game states (playing, paused, game over) and manages cursor visibility for a seamless player experience.
 
-Controls
+*Controls*
 Movement: WASD Keys
 
 Attack: Left Mouse Button
@@ -52,7 +52,7 @@ Interact: 'E' Key
 
 Pause: Escape Key
 
-Credits
+*Credits*
 Game Design, Programming, Sound Design, and Level Design: Mihir Kumar
 
 Art & Visual Assets: Ryan. This project is for portfolio and demonstration purposes only.
